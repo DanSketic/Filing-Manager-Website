@@ -1,14 +1,14 @@
-## 🎡 Graviton Editor's Website
-Graviton Editor's website, hosted in https://graviton.netlify.app/
+## 🎡 Filing-Manager Website
+Filing-Manager website, in https://dansketic.com/Filing-Manager
 
 ### 🎭 Badges
 
-"Made for Graviton" badge:
+"Made for FM2" badge:
 
 ![made_for_FM2](badges/made_for_fm2.svg)
 
 Markdown usage:
-```![MadeForGraviton](https://raw.githubusercontent.com/marc2332/website-1/master/src/badges/made_for_graviton.svg?sanitize=true)```
+```![MadeForFM2](https://raw.githubusercontent.com/DanSketic/Filing-Manager-Website/master/badges/made_for_fm2.svg?sanitize=true)```
 
 ### 🥽 Development
 
