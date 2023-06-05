@@ -5,7 +5,7 @@ Graviton Editor's website, hosted in https://graviton.netlify.app/
 
 "Made for Graviton" badge:
 
-![made_for_graviton](src/badges/made_for_graviton.svg)
+![made_for_FM2](badges/made_for_fm2.svg)
 
 Markdown usage:
 ```![MadeForGraviton](https://raw.githubusercontent.com/marc2332/website-1/master/src/badges/made_for_graviton.svg?sanitize=true)```
